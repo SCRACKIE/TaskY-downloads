@@ -10,6 +10,10 @@ This IS NOT the source code of TaskY for Windows 10. It's just the repository fo
 
 It si a simple-to-use ToDo list for Windows 10. It's completly free!
 
+
+**Please report issues/bugs on Issues tab, so I can solve 'em. Thanks!**
+
+
 # Usefull links:
 
 **_Official website_**: https://tasky.scrackdev.tk (**not finished yet**)
